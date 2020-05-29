@@ -1,2 +1,2 @@
 # StockParseDeskTool
-实时分析的桌面工具
+实时分析当前价格的桌面工具
